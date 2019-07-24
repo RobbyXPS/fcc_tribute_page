@@ -1,0 +1,56 @@
+#main {
+  background: #e8e8e8;
+  margin: 30px auto;
+  padding: 5px 10px;
+  border-radius: .5%;
+  font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif
+}
+
+#title {
+  font-size: 250%;
+  text-align: center;
+  padding: -10px 0px 0px 0px;
+}
+
+#image {
+  width: 70%;
+  margin: auto;
+  max-width: 100%;
+  display: block;
+}
+
+#img-caption {
+  margin: 10px;
+  text-align: center;
+  font-size: 75%;
+}
+
+#summary-title {
+  font-size: 125%;
+  text-decoration: underline;
+}
+
+#tribute-container {
+  max-width: 600px;
+  margin: 50px auto;
+}
+
+#tribute-info {
+  margin: 10px auto;
+}
+
+li {
+  font-size: 90%;
+  list-style-type: square;
+  margin: 10px;
+}
+
+#tribute-link {
+  text-decoration: none;
+}
+
+#read-more {
+  margin: 50px auto -30px;
+  text-align: center;
+  font-size: 75%;
+}
